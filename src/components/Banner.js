@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Pratik`} <span className="txt-rotate" dataPeriod="1000" data-rotate=''><span className="wrap">{text}</span></span></h1>
-                  <p>Mastering the art of Java Backend symphonies and orchestrating Flutter's dance of pixels. A virtuoso in crafting robust server backends and delightful cross-platform applications, transforming lines of code into seamless experiences</p>
+                  <p>Pioneering the realm of Java Backend expertise while wielding the dynamic melodies of Dart in Flutter app crafting. A maestro sculpting resilient server architectures and captivating cross-platform experiences, epitomizing code craftsmanship.</p>
               </div>}
             </TrackVisibility>
           </Col>
